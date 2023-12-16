@@ -12,7 +12,7 @@ Brief description or overview of the project.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/muddled-live/vod-ripper.git
+    git clone https://github.com/muddled-live/auto-vod.git
     ```
 
 2. Navigate to the project directory:
@@ -24,11 +24,11 @@ Brief description or overview of the project.
 3. Create a virtual environment (optional but recommended):
 
     ```bash
-    # Using venv (Python 3.x)
-    python3 -m venv venv
+    # Using anaconda3 (Python 3.x)
+    conda create -n auto-vod python=3.10
 
     # Activating the virtual environment (Windows)
-    .\venv\Scripts\activate
+    activate auto-vod
     ```
 
 4. Install dependencies from requirements.txt:
