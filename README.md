@@ -6,6 +6,7 @@ Python program to a download twitch stream in real time
 
 - Python 3.10
 - Anaconda3 
+- ffmpeg
 
 ## Installation
 
