@@ -1,11 +1,11 @@
-# Project Name
+# Auto-Vod
 
-Brief description or overview of the project.
+Python program to a download twitch stream in real time
 
 ## Requirements
 
 - Python 3.10
-- Virtualenv
+- Anaconda3 
 
 ## Installation
 
